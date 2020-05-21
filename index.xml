@@ -5,21 +5,12 @@
     <link>Hope-hue.github.io/</link>
       <atom:link href="Hope-hue.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 18:23:42 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/Hope-hue.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>Hope-hue.github.io/</link>
     </image>
-    
-    <item>
-      <title>Cybersecurity</title>
-      <link>Hope-hue.github.io/post/my-article-name/</link>
-      <pubDate>Thu, 21 May 2020 18:23:42 +0300</pubDate>
-      <guid>Hope-hue.github.io/post/my-article-name/</guid>
-      <description>&lt;p&gt;Cybersecurity is all about protecting data that is found in electronic form (such as computers, servers, networks, mobile devices, etc.) from being compromised or attacked. Part of that is identifying what the critical data is, where it resides, its risk exposure, and the technology you have to implement in order to protect it.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
