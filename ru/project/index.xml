@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Мой блог</title>
+    <link>Hope-hue.github.io/ru/project/</link>
+      <atom:link href="Hope-hue.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/Hope-hue.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>Hope-hue.github.io/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>Hope-hue.github.io/ru/project/internal-project/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>Hope-hue.github.io/ru/project/internal-project/</guid>
+      <description>&lt;p&gt;проект создания персонального сайта &amp;lsquo;** ЭТО САЙТ **&#39;:D, слайды будут добавлены как можно скорее:) &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Math-Modeling Project</title>
+      <link>Hope-hue.github.io/ru/project/external-project/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>Hope-hue.github.io/ru/project/external-project/</guid>
+      <description>&lt;p&gt;Групповой проект по математической модели&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
